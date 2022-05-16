@@ -1,0 +1,15 @@
+F:\С#\TaskDZ15\bin\Debug\net6.0\TaskDZ15.exe
+F:\С#\TaskDZ15\bin\Debug\net6.0\TaskDZ15.deps.json
+F:\С#\TaskDZ15\bin\Debug\net6.0\TaskDZ15.runtimeconfig.json
+F:\С#\TaskDZ15\bin\Debug\net6.0\TaskDZ15.dll
+F:\С#\TaskDZ15\bin\Debug\net6.0\TaskDZ15.pdb
+F:\С#\TaskDZ15\obj\Debug\net6.0\TaskDZ15.csproj.AssemblyReference.cache
+F:\С#\TaskDZ15\obj\Debug\net6.0\TaskDZ15.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\TaskDZ15\obj\Debug\net6.0\TaskDZ15.AssemblyInfoInputs.cache
+F:\С#\TaskDZ15\obj\Debug\net6.0\TaskDZ15.AssemblyInfo.cs
+F:\С#\TaskDZ15\obj\Debug\net6.0\TaskDZ15.csproj.CoreCompileInputs.cache
+F:\С#\TaskDZ15\obj\Debug\net6.0\TaskDZ15.dll
+F:\С#\TaskDZ15\obj\Debug\net6.0\refint\TaskDZ15.dll
+F:\С#\TaskDZ15\obj\Debug\net6.0\TaskDZ15.pdb
+F:\С#\TaskDZ15\obj\Debug\net6.0\TaskDZ15.genruntimeconfig.cache
+F:\С#\TaskDZ15\obj\Debug\net6.0\ref\TaskDZ15.dll
