@@ -1,0 +1,15 @@
+F:\С#\Task18\bin\Debug\net6.0\Task18.exe
+F:\С#\Task18\bin\Debug\net6.0\Task18.deps.json
+F:\С#\Task18\bin\Debug\net6.0\Task18.runtimeconfig.json
+F:\С#\Task18\bin\Debug\net6.0\Task18.dll
+F:\С#\Task18\bin\Debug\net6.0\Task18.pdb
+F:\С#\Task18\obj\Debug\net6.0\Task18.csproj.AssemblyReference.cache
+F:\С#\Task18\obj\Debug\net6.0\Task18.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\Task18\obj\Debug\net6.0\Task18.AssemblyInfoInputs.cache
+F:\С#\Task18\obj\Debug\net6.0\Task18.AssemblyInfo.cs
+F:\С#\Task18\obj\Debug\net6.0\Task18.csproj.CoreCompileInputs.cache
+F:\С#\Task18\obj\Debug\net6.0\Task18.dll
+F:\С#\Task18\obj\Debug\net6.0\refint\Task18.dll
+F:\С#\Task18\obj\Debug\net6.0\Task18.pdb
+F:\С#\Task18\obj\Debug\net6.0\Task18.genruntimeconfig.cache
+F:\С#\Task18\obj\Debug\net6.0\ref\Task18.dll

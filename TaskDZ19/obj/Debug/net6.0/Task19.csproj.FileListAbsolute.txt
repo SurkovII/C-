@@ -1,0 +1,15 @@
+F:\С#\TaskDZ19\bin\Debug\net6.0\Task19.exe
+F:\С#\TaskDZ19\bin\Debug\net6.0\Task19.deps.json
+F:\С#\TaskDZ19\bin\Debug\net6.0\Task19.runtimeconfig.json
+F:\С#\TaskDZ19\bin\Debug\net6.0\Task19.dll
+F:\С#\TaskDZ19\bin\Debug\net6.0\Task19.pdb
+F:\С#\TaskDZ19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+F:\С#\TaskDZ19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\TaskDZ19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+F:\С#\TaskDZ19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+F:\С#\TaskDZ19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+F:\С#\TaskDZ19\obj\Debug\net6.0\Task19.dll
+F:\С#\TaskDZ19\obj\Debug\net6.0\refint\Task19.dll
+F:\С#\TaskDZ19\obj\Debug\net6.0\Task19.pdb
+F:\С#\TaskDZ19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
+F:\С#\TaskDZ19\obj\Debug\net6.0\ref\Task19.dll
