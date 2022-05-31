@@ -1,0 +1,15 @@
+F:\С#\Task28\obj\Debug\net6.0\Task28.csproj.AssemblyReference.cache
+F:\С#\Task28\obj\Debug\net6.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\Task28\obj\Debug\net6.0\Task28.AssemblyInfoInputs.cache
+F:\С#\Task28\obj\Debug\net6.0\Task28.AssemblyInfo.cs
+F:\С#\Task28\obj\Debug\net6.0\Task28.csproj.CoreCompileInputs.cache
+F:\С#\Task28\bin\Debug\net6.0\Task28.exe
+F:\С#\Task28\bin\Debug\net6.0\Task28.deps.json
+F:\С#\Task28\bin\Debug\net6.0\Task28.runtimeconfig.json
+F:\С#\Task28\bin\Debug\net6.0\Task28.dll
+F:\С#\Task28\bin\Debug\net6.0\Task28.pdb
+F:\С#\Task28\obj\Debug\net6.0\Task28.dll
+F:\С#\Task28\obj\Debug\net6.0\refint\Task28.dll
+F:\С#\Task28\obj\Debug\net6.0\Task28.pdb
+F:\С#\Task28\obj\Debug\net6.0\Task28.genruntimeconfig.cache
+F:\С#\Task28\obj\Debug\net6.0\ref\Task28.dll

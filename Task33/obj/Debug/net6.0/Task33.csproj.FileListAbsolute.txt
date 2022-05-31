@@ -1,0 +1,15 @@
+F:\С#\Task33\obj\Debug\net6.0\Task33.csproj.AssemblyReference.cache
+F:\С#\Task33\obj\Debug\net6.0\Task33.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\Task33\obj\Debug\net6.0\Task33.AssemblyInfoInputs.cache
+F:\С#\Task33\obj\Debug\net6.0\Task33.AssemblyInfo.cs
+F:\С#\Task33\obj\Debug\net6.0\Task33.csproj.CoreCompileInputs.cache
+F:\С#\Task33\bin\Debug\net6.0\Task33.exe
+F:\С#\Task33\bin\Debug\net6.0\Task33.deps.json
+F:\С#\Task33\bin\Debug\net6.0\Task33.runtimeconfig.json
+F:\С#\Task33\bin\Debug\net6.0\Task33.dll
+F:\С#\Task33\bin\Debug\net6.0\Task33.pdb
+F:\С#\Task33\obj\Debug\net6.0\Task33.dll
+F:\С#\Task33\obj\Debug\net6.0\refint\Task33.dll
+F:\С#\Task33\obj\Debug\net6.0\Task33.pdb
+F:\С#\Task33\obj\Debug\net6.0\Task33.genruntimeconfig.cache
+F:\С#\Task33\obj\Debug\net6.0\ref\Task33.dll

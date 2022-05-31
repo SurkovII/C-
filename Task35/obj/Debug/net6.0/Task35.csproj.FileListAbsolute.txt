@@ -1,0 +1,15 @@
+F:\С#\Task35\obj\Debug\net6.0\Task35.csproj.AssemblyReference.cache
+F:\С#\Task35\obj\Debug\net6.0\Task35.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\Task35\obj\Debug\net6.0\Task35.AssemblyInfoInputs.cache
+F:\С#\Task35\obj\Debug\net6.0\Task35.AssemblyInfo.cs
+F:\С#\Task35\obj\Debug\net6.0\Task35.csproj.CoreCompileInputs.cache
+F:\С#\Task35\bin\Debug\net6.0\Task35.exe
+F:\С#\Task35\bin\Debug\net6.0\Task35.deps.json
+F:\С#\Task35\bin\Debug\net6.0\Task35.runtimeconfig.json
+F:\С#\Task35\bin\Debug\net6.0\Task35.dll
+F:\С#\Task35\bin\Debug\net6.0\Task35.pdb
+F:\С#\Task35\obj\Debug\net6.0\Task35.dll
+F:\С#\Task35\obj\Debug\net6.0\refint\Task35.dll
+F:\С#\Task35\obj\Debug\net6.0\Task35.pdb
+F:\С#\Task35\obj\Debug\net6.0\Task35.genruntimeconfig.cache
+F:\С#\Task35\obj\Debug\net6.0\ref\Task35.dll

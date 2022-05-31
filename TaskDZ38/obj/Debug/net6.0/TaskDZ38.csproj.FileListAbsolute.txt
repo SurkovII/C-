@@ -1,0 +1,15 @@
+F:\С#\TaskDZ38\bin\Debug\net6.0\TaskDZ38.exe
+F:\С#\TaskDZ38\bin\Debug\net6.0\TaskDZ38.deps.json
+F:\С#\TaskDZ38\bin\Debug\net6.0\TaskDZ38.runtimeconfig.json
+F:\С#\TaskDZ38\bin\Debug\net6.0\TaskDZ38.dll
+F:\С#\TaskDZ38\bin\Debug\net6.0\TaskDZ38.pdb
+F:\С#\TaskDZ38\obj\Debug\net6.0\TaskDZ38.csproj.AssemblyReference.cache
+F:\С#\TaskDZ38\obj\Debug\net6.0\TaskDZ38.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\TaskDZ38\obj\Debug\net6.0\TaskDZ38.AssemblyInfoInputs.cache
+F:\С#\TaskDZ38\obj\Debug\net6.0\TaskDZ38.AssemblyInfo.cs
+F:\С#\TaskDZ38\obj\Debug\net6.0\TaskDZ38.csproj.CoreCompileInputs.cache
+F:\С#\TaskDZ38\obj\Debug\net6.0\TaskDZ38.dll
+F:\С#\TaskDZ38\obj\Debug\net6.0\refint\TaskDZ38.dll
+F:\С#\TaskDZ38\obj\Debug\net6.0\TaskDZ38.pdb
+F:\С#\TaskDZ38\obj\Debug\net6.0\TaskDZ38.genruntimeconfig.cache
+F:\С#\TaskDZ38\obj\Debug\net6.0\ref\TaskDZ38.dll
