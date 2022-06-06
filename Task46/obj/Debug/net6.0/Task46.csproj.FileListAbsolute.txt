@@ -1,0 +1,15 @@
+F:\С#\Task46\bin\Debug\net6.0\Task46.exe
+F:\С#\Task46\bin\Debug\net6.0\Task46.deps.json
+F:\С#\Task46\bin\Debug\net6.0\Task46.runtimeconfig.json
+F:\С#\Task46\bin\Debug\net6.0\Task46.dll
+F:\С#\Task46\bin\Debug\net6.0\Task46.pdb
+F:\С#\Task46\obj\Debug\net6.0\Task46.csproj.AssemblyReference.cache
+F:\С#\Task46\obj\Debug\net6.0\Task46.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\Task46\obj\Debug\net6.0\Task46.AssemblyInfoInputs.cache
+F:\С#\Task46\obj\Debug\net6.0\Task46.AssemblyInfo.cs
+F:\С#\Task46\obj\Debug\net6.0\Task46.csproj.CoreCompileInputs.cache
+F:\С#\Task46\obj\Debug\net6.0\Task46.dll
+F:\С#\Task46\obj\Debug\net6.0\refint\Task46.dll
+F:\С#\Task46\obj\Debug\net6.0\Task46.pdb
+F:\С#\Task46\obj\Debug\net6.0\Task46.genruntimeconfig.cache
+F:\С#\Task46\obj\Debug\net6.0\ref\Task46.dll

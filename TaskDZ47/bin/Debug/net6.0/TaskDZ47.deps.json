@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TaskDZ47/1.0.0": {
+        "runtime": {
+          "TaskDZ47.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskDZ47/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

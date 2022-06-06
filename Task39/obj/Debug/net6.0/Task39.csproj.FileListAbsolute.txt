@@ -1,0 +1,15 @@
+F:\С#\Task39\obj\Debug\net6.0\Task39.csproj.AssemblyReference.cache
+F:\С#\Task39\obj\Debug\net6.0\Task39.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\Task39\obj\Debug\net6.0\Task39.AssemblyInfoInputs.cache
+F:\С#\Task39\obj\Debug\net6.0\Task39.AssemblyInfo.cs
+F:\С#\Task39\obj\Debug\net6.0\Task39.csproj.CoreCompileInputs.cache
+F:\С#\Task39\bin\Debug\net6.0\Task39.exe
+F:\С#\Task39\bin\Debug\net6.0\Task39.deps.json
+F:\С#\Task39\bin\Debug\net6.0\Task39.runtimeconfig.json
+F:\С#\Task39\bin\Debug\net6.0\Task39.dll
+F:\С#\Task39\bin\Debug\net6.0\Task39.pdb
+F:\С#\Task39\obj\Debug\net6.0\Task39.dll
+F:\С#\Task39\obj\Debug\net6.0\refint\Task39.dll
+F:\С#\Task39\obj\Debug\net6.0\Task39.pdb
+F:\С#\Task39\obj\Debug\net6.0\Task39.genruntimeconfig.cache
+F:\С#\Task39\obj\Debug\net6.0\ref\Task39.dll
