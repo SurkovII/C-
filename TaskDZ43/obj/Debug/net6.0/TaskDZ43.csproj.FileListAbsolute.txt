@@ -1,0 +1,15 @@
+F:\С#\TaskDZ43\bin\Debug\net6.0\TaskDZ43.exe
+F:\С#\TaskDZ43\bin\Debug\net6.0\TaskDZ43.deps.json
+F:\С#\TaskDZ43\bin\Debug\net6.0\TaskDZ43.runtimeconfig.json
+F:\С#\TaskDZ43\bin\Debug\net6.0\TaskDZ43.dll
+F:\С#\TaskDZ43\bin\Debug\net6.0\TaskDZ43.pdb
+F:\С#\TaskDZ43\obj\Debug\net6.0\TaskDZ43.csproj.AssemblyReference.cache
+F:\С#\TaskDZ43\obj\Debug\net6.0\TaskDZ43.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\TaskDZ43\obj\Debug\net6.0\TaskDZ43.AssemblyInfoInputs.cache
+F:\С#\TaskDZ43\obj\Debug\net6.0\TaskDZ43.AssemblyInfo.cs
+F:\С#\TaskDZ43\obj\Debug\net6.0\TaskDZ43.csproj.CoreCompileInputs.cache
+F:\С#\TaskDZ43\obj\Debug\net6.0\TaskDZ43.dll
+F:\С#\TaskDZ43\obj\Debug\net6.0\refint\TaskDZ43.dll
+F:\С#\TaskDZ43\obj\Debug\net6.0\TaskDZ43.pdb
+F:\С#\TaskDZ43\obj\Debug\net6.0\TaskDZ43.genruntimeconfig.cache
+F:\С#\TaskDZ43\obj\Debug\net6.0\ref\TaskDZ43.dll
