@@ -1,0 +1,15 @@
+F:\С#\Task60\bin\Debug\net6.0\Task60.exe
+F:\С#\Task60\bin\Debug\net6.0\Task60.deps.json
+F:\С#\Task60\bin\Debug\net6.0\Task60.runtimeconfig.json
+F:\С#\Task60\bin\Debug\net6.0\Task60.dll
+F:\С#\Task60\bin\Debug\net6.0\Task60.pdb
+F:\С#\Task60\obj\Debug\net6.0\Task60.csproj.AssemblyReference.cache
+F:\С#\Task60\obj\Debug\net6.0\Task60.GeneratedMSBuildEditorConfig.editorconfig
+F:\С#\Task60\obj\Debug\net6.0\Task60.AssemblyInfoInputs.cache
+F:\С#\Task60\obj\Debug\net6.0\Task60.AssemblyInfo.cs
+F:\С#\Task60\obj\Debug\net6.0\Task60.csproj.CoreCompileInputs.cache
+F:\С#\Task60\obj\Debug\net6.0\Task60.dll
+F:\С#\Task60\obj\Debug\net6.0\refint\Task60.dll
+F:\С#\Task60\obj\Debug\net6.0\Task60.pdb
+F:\С#\Task60\obj\Debug\net6.0\Task60.genruntimeconfig.cache
+F:\С#\Task60\obj\Debug\net6.0\ref\Task60.dll
